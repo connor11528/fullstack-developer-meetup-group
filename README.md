@@ -4,7 +4,7 @@ Site is live [here](https://fullstack-developer-meetup.netlify.com/#/). Hosted o
 
 ## Previous sponsors
 
-- [Fivetran](https://fivetran.com/) (October 2019)
+- [Fivetran](https://fivetran.com/) and [Mapbox](https://www.mapbox.com/) (October 2019)
 
 - [Kickstart Coding](https://kickstartcoding.com/) (September 2019)
 
